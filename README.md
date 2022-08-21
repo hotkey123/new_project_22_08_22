@@ -1,1 +1,1 @@
-This is the first project while practicing
+This is the first project.
